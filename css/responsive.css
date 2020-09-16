@@ -1,0 +1,714 @@
+/* Large devices */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .banner-text h4 {
+        font-size: 40px;
+    }
+
+    .title-head h3 {
+        font-size: 25px;
+    }
+
+    .after-feature-txt-center p {
+        padding-bottom: 16px;
+    }
+
+    #works {
+        padding-top: 60px;
+    }
+
+    .works-head p {
+        padding-bottom: 35px;
+    }
+
+    .works-btn {
+        margin-bottom: 45px;
+    }
+
+    #team {
+        padding-top: 50px;
+        padding-bottom: 65px;
+    }
+
+    .fact-overly {
+        padding-top: 38px;
+        padding-bottom: 68px;
+    }
+
+    #discuss {
+        padding-top: 41px;
+        padding-bottom: 38px;
+    }
+
+    .discuss-left-head p {
+        padding-right: 35px;
+    }
+
+    .discuss-title-text {
+        margin-top: 30px;
+    }
+}
+
+/* Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* Header Css Start */
+    .logo-side span {
+        margin-right: 0px;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #ffffff;
+        padding: 5px 10px;
+        border: 1px solid #fff;
+        border-radius: 5px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        background: none;
+    }
+    /* Header Css End */
+    
+    /* Banner Css Start */
+    .banner-overly {
+        padding-top: 70px;
+    }
+
+    .banner-text h3 {
+        text-align: center;
+    }
+
+    .banner-text h4 {
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .banner-text p {
+        padding-bottom: 15px;
+        text-align: center;
+    }
+
+    .banner-icon {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .banner-right-slider {
+        margin-left: 234px;
+    }
+
+    #after-banner {
+        padding-top: 0px;
+    }
+    /* Banner Css End */
+
+    /* Features Css Start */
+    #features {
+        padding-top: 30px;
+        padding-bottom: 25px;
+    }
+
+    .title-head h3::before {
+        left: 230px;
+    }
+    .title-head h3::after {
+        right: 230px;
+    }
+
+    .feature-row {
+        margin-top: 35px;
+    }
+
+    .features-item {
+        padding-bottom: 25px;
+    }
+
+    #after-feature-txt {
+        padding-top: 35px;
+    }
+
+    .after-feature-txt-center p {
+        padding-bottom: 20px;
+    }
+
+    .after-feature-main {
+        margin-top: 0px;
+    }
+
+    .after-feature-center-image {
+        padding-top: 30px;
+    }
+    /* Features Css End */
+
+    /* Works Css Start */
+    #works {
+        padding-top: 35px;
+    }
+
+    .works-head {
+        margin-top: 35px;
+    }
+
+    .works-head p {
+        padding-bottom: 30px;
+    }
+
+    .works-btn {
+        margin-bottom: 50px;
+    }
+    /* Works Css End */
+
+    /* Team Css Start */
+    #team {
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+
+    .team-text h3 {
+        padding-top: 35px;
+        padding-bottom: 50px;
+    }
+
+    .team-image-overly h3 {
+        top: 15%;
+    }
+
+    .team-image-overly h4 {
+        top: 22%;
+    }
+
+    .team-image-overly p {
+        top: 32%;
+    }
+
+    .team-image-overly i {
+        bottom: -196px;
+    }
+
+    .team-main {
+        padding-bottom: 30px;
+    }
+    /* Team Css End */
+
+    /* Fact Css Start */
+    .fact-overly {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+
+    .counter-item {
+        padding-bottom: 30px;
+    }
+    /* Fact Css End */
+
+    /* Discuss Css Start */
+    #discuss {
+        padding-top: 35px;
+        padding-bottom: 40px;
+    }
+
+    .discuss-title-text {
+        margin-top: 30px;
+    }
+
+    .discuss-title-text h3 {
+        padding-bottom: 25px;
+    }
+
+    .discuss-left-head h3 {
+        padding-bottom: 25px;
+        text-align: center;
+    }
+
+    .discuss-left-head p {
+        padding: 0px 217px 25px 252px;
+    }
+
+    .say-hello h3 {
+        text-align: center;
+    }
+
+    .discuss-icon {
+        text-align: center;
+    }
+
+    .input-box {
+        margin-top: 20px;
+    }
+
+    .input-box-two {
+        margin-top: 30px;
+    }
+
+    .input-message-text {
+        margin-top: 25px;
+    }
+    /* Discuss Css End */
+
+     /* Footer Css Start */
+     #footer {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    
+    .footer-item {
+        text-align: center;
+    }
+
+    .footer-left-part-text p {
+        padding-bottom: 10px;
+    }
+
+    .footer-center-part-text p {
+        padding-right: 1px;
+        padding-bottom: 8px;
+    }
+
+    .exp-main {
+        padding: 0px 165px;
+    }
+    /* Footer Css End */
+
+}
+
+/* Small devices */
+@media (min-width: 576px) and (max-width: 767.98px) {
+     /* Header Css Start */
+     .logo-side span {
+        margin-right: 0px;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #ffffff;
+        padding: 5px 10px;
+        border: 1px solid #fff;
+        border-radius: 5px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        background: none;
+    }
+    /* Header Css End */
+    
+    /* Banner Css Start */
+    .banner-overly {
+        padding-top: 70px;
+    }
+
+    .banner-text h3 {
+        text-align: center;
+    }
+
+    .banner-text h4 {
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .banner-text p {
+        padding-bottom: 15px;
+        text-align: center;
+    }
+
+    .banner-icon {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .banner-right-slider {
+        margin-left: 145px;
+    }
+
+    #after-banner {
+        padding-top: 0px;
+    }
+    
+    /* Banner Css End */
+
+    /* Features Css Start */
+    #features {
+        padding-top: 30px;
+        padding-bottom: 25px;
+    }
+
+    .title-head h3::before {
+        left: 130px;
+    }
+    .title-head h3::after {
+        right: 130px;
+    }
+
+    .feature-row {
+        margin-top: 35px;
+    }
+
+    .features-item {
+        padding-bottom: 25px;
+    }
+
+    #after-feature-txt {
+        padding-top: 35px;
+    }
+
+    .after-feature-txt-center p {
+        padding-bottom: 20px;
+    }
+
+    .after-feature-main {
+        margin-top: 0px;
+    }
+
+    .after-feature-center-image {
+        padding-top: 30px;
+    }
+    /* Features Css End */
+
+    /* Works Css Start */
+    #works {
+        padding-top: 35px;
+    }
+
+    .works-head {
+        margin-top: 35px;
+    }
+
+    .works-head p {
+        padding-bottom: 50px;
+    }
+
+    .works-btn {
+        margin-bottom: 50px;
+    }
+    /* Works Css End */
+
+    /* Team Css Start */
+    #team {
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+
+    .team-text h3 {
+        padding-top: 35px;
+        padding-bottom: 50px;
+    }
+
+    .team-image-overly h3 {
+        top: 15%;
+    }
+
+    .team-image-overly h4 {
+        top: 22%;
+    }
+
+    .team-image-overly p {
+        top: 32%;
+    }
+
+    .team-image-overly i {
+        bottom: -118px;
+    }
+
+    .team-main {
+        padding-bottom: 30px;
+    }
+    /* Team Css End */
+
+    /* Fact Css Start */
+    .fact-overly {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+
+    .counter-item {
+        padding-bottom: 30px;
+    }
+    /* Fact Css End */
+
+    /* Discuss Css Start */
+    #discuss {
+        padding-top: 35px;
+        padding-bottom: 40px;
+    }
+
+    .discuss-title-text {
+        margin-top: 30px;
+    }
+
+    .discuss-title-text h3 {
+        padding-bottom: 25px;
+    }
+
+    .discuss-left-head h3 {
+        padding-bottom: 25px;
+        text-align: center;
+    }
+
+    .discuss-left-head p {
+        padding: 0px 143px 25px 154px;
+    }
+
+    .say-hello h3 {
+        text-align: center;
+    }
+
+    .discuss-icon {
+        text-align: center;
+    }
+
+    .input-box {
+        margin-top: 20px;
+    }
+
+    .input-box-two {
+        margin-top: 30px;
+    }
+
+    .input-message-text {
+        margin-top: 25px;
+    }
+    /* Discuss Css End */
+
+     /* Footer Css Start */
+     #footer {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    
+    .footer-item {
+        text-align: center;
+    }
+
+    .footer-left-part-text p {
+        padding-bottom: 10px;
+    }
+
+    .footer-center-part-text p {
+        padding-right: 1px;
+        padding-bottom: 8px;
+    }
+
+    .exp-main {
+        padding: 0px 130px;
+    }
+    /* Footer Css End */
+
+}
+
+/* Extra small */
+@media (max-width: 575.98px) {
+
+    /* Header Css Start */
+    .logo-side span {
+        margin-right: 0px;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #ffffff;
+        padding: 5px 10px;
+        border: 1px solid #fff;
+        border-radius: 5px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        background: none;
+    }
+    /* Header Css End */
+    
+    /* Banner Css Start */
+    .banner-overly {
+        padding-top: 70px;
+    }
+
+    .banner-text h3 {
+        text-align: center;
+    }
+
+    .banner-text h4 {
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .banner-text p {
+        padding-bottom: 15px;
+        text-align: center;
+    }
+
+    .banner-icon {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .banner-right-slider {
+        margin-left: 55px;
+    }
+
+    #after-banner {
+        padding-top: 0px;
+    }
+    /* Banner Css End */
+    
+    /* Features Css Start */
+    #features {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    .title-head h3::before {
+        left: 45px;
+    }
+    .title-head h3::after {
+        right: 45px;
+    }
+
+    .feature-row {
+        margin-top: 35px;
+    }
+
+    .features-item {
+        padding-bottom: 25px;
+    }
+
+    #after-feature-txt {
+        padding-top: 35px;
+    }
+
+    .after-feature-txt-center p {
+        padding-bottom: 0px;
+    }
+
+    .after-feature-main {
+        margin-top: 30px;
+    }
+
+    .after-feature-center-image {
+        padding-top: 30px;
+    }
+    /* Features Css End */
+    
+    /* Works Css Start */
+    #works {
+        padding-top: 35px;
+    }
+
+    .works-head {
+        margin-top: 35px;
+    }
+
+    .works-head p {
+        padding-bottom: 50px;
+    }
+
+    .works-btn {
+        margin-bottom: 50px;
+    }
+    /* Works Css End */
+    
+    /* Team Css Start */
+    #team {
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+
+    .team-text h3 {
+        padding-top: 35px;
+        padding-bottom: 50px;
+    }
+
+    .team-image-overly h3 {
+        top: 15%;
+    }
+
+    .team-image-overly h4 {
+        top: 22%;
+    }
+
+    .team-image-overly p {
+        top: 32%;
+    }
+
+    .team-image-overly i {
+        bottom: -195px;
+    }
+
+    .team-main {
+        padding-bottom: 30px;
+    }
+    /* Team Css End */
+    
+    /* Fact Css Start */
+    .fact-overly {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+
+    .counter-item {
+        padding-bottom: 30px;
+    }
+    /* Fact Css End */
+    
+    /* Discuss Css Start */
+    #discuss {
+        padding-top: 35px;
+        padding-bottom: 40px;
+    }
+
+    .discuss-title-text {
+        margin-top: 30px;
+    }
+
+    .discuss-title-text h3 {
+        padding-bottom: 40px;
+    }
+
+    .discuss-left-head h3 {
+        padding-bottom: 25px;
+    }
+
+    .discuss-left-head p {
+        padding: 0px 40px 25px 58px;
+    }
+
+    .say-hello h3 {
+        text-align: center;
+    }
+
+    .discuss-icon {
+        text-align: center;
+    }
+
+    .input-box-two {
+        margin-top: 30px;
+    }
+
+    .input-message-text {
+        margin-top: 25px;
+    }
+    /* Discuss Css End */
+    
+    /* Footer Css Start */
+    #footer {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    
+    .footer-item {
+        text-align: center;
+    }
+
+    .footer-center-part-text p {
+        padding: 0px 8px 25px 0px;
+    }
+    /* Footer Css End */
+}
